@@ -1,0 +1,16 @@
+.h { 
+    font-family: Futura;
+    font-weight: 100;
+    color: rgb(161, 3, 127);
+    background-color: rgb(48, 0, 43);
+    
+};
+
+.newCard {
+    display: flex;
+    height: 4em;
+    width: 4em;
+    border:4px solid white;
+    background-color:rgb(255, 241, 254);
+
+};
